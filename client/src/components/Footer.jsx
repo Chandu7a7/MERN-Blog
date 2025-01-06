@@ -38,7 +38,7 @@ export default function FooterCom() {
                             <Footer.Title title='Follow us' />
                             <Footer.LinkGroup col>
                                 <Footer.Link
-                                    href="https://github/chandu7a7"
+                                    href="s"
                                     target='_blank'
                                     rel='noopener noreferrer'
                                 >
